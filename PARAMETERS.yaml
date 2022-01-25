@@ -1,0 +1,4 @@
+# parameters (like $VARIABLE_1) are replaced in the text at build time
+
+NUM_POWER_MUSCLES: 40
+NUM_FINE_MUSCLES: 40
